@@ -1,0 +1,15 @@
+{
+  "name": "@seleku/core",
+  "version": "1.0.0",
+  "description": "\"core system for seleku\"",
+  "main": "component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selekucore",
+    "core"
+  ],
+  "author": "daber",
+  "license": "ISC"
+}
